@@ -1,5 +1,5 @@
 # Appwrite Database Editor
-Facilitator for create, sync and edit Apprwrite database.
+Facilitator for create, sync and edit Apprwrite database, written in Python.
 
 ## Setup
 ### Python
